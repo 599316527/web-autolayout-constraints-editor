@@ -1,6 +1,9 @@
 # autolayout-editor
 
-> A Vue.js project
+Based on [autolayout.js](https://github.com/IjzerenHein/autolayout.js).
+
+[DEMO](https://599316527.github.io/web-autolayout-constraints-editor/)
+
 
 ## Build Setup
 
